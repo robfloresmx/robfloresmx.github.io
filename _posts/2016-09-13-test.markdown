@@ -1,0 +1,6 @@
+---
+published: true
+title: TEST
+layout: post
+---
+<h1>Hello, Tinypress <h1>
