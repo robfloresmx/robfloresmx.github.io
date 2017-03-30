@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+#header-container {
+    text-align: center;
+    padding: 30px;
+    background-color: #37474f;
+}
+
+#header-content {
+    margin: auto;
+    display: inline-block;
+}
+
+#header-content p {
+    margin: 0;
+    padding: 0;
+}
+
+#header-content .title {
+    font-size: 3em;
+    color: white;
+}
+
+#header-content .subtitle {
+    font-weight: normal;
+    color: #eceff1;
+}
+
+#profile-img {
+    display: inline-block;
+    height: 250px;
+    border-radius: 50%;
+}
+
+#content-container {
+    padding: 30px;
+    color: #37474f;
+}
+
+#content {
+    margin: 0 auto;
+    max-width: 60.5em;
+}
+
+#content #about-me {
+    text-align: center;
+    font-size: 2.2em;
+    margin-bottom: 1em;
+}
+
+/*#content .section {
+    padding: 20px;
+}*/
+
+#content .section .title {
+    display: inline-block;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+#content p {
+    margin: 0;
+    padding: 0;
+    font-size: 1.5em;  
+}
+
+.app {
+    display: inline-block;
+}
+
+.app-img {
+    max-height: 10em;
+}
+
+#content .app-description {
+    padding: 10px;
+}
+
+#footer {
+    padding: 30px;
+}
